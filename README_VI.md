@@ -75,4 +75,4 @@ Chỉ cần cài đặt file APK có trong file ZIP, sau đó mở phần chỉn
 > * Nếu bạn là tác giả font chữ và muốn gỡ bỏ sản phẩm của mình, vui lòng liên hệ với mình qua:
 > *   - **Email:** HeheJuiceBomb@gmail.com 
    *(Lưu ý: Mình **chỉ phản hồi** email từ các tác giả font chữ. Các email khác với mục đích xin file chứng tỏ bạn chưa đọc kỹ trang này, và mình xin phép được **BỎ QUA**).*
-> * Nhắn tin qua Telegram cho tôi khi chưa được phép sẽ bị CẤM (BAN) khỏi Kênh Phát Hành (Release Channel).
+> * Nhắn tin cho mình qua Telegram khi chưa được phép sẽ bị CẤM (BAN) khỏi Kênh Phát Hành (Release Channel).
