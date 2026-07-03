@@ -13,6 +13,8 @@
   <img loading="lazy" src="HeheJuice/bannerCN.png"/>
 </h1>
 
+[![GitHub Downloads](https://img.shields.io/github/downloads/HeheJuice/OneUI-Lockscreen-Font-EXT/total?style=flat-square&color=blue&label=總下載量)](https://github.com/HeheJuice/OneUI-Lockscreen-Font-EXT/releases)
+
 # 🗺️ 項目概述
 OneUI鎖屏字體EXT（OneUI-Lockscreen-Font-EXT）是一個為 OneUI 鎖定畫面介面添加更多字體的項目
 
