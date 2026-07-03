@@ -1,13 +1,4 @@
-<div align="left">
-  <table>
-    <tr>
-      <td><b>Language :</b></td>
-      <td>English</td>
-      <td><a href="README_CN.md">中文</a></td>
-      <td><a href="README_VI.md">Tiếng Việt</a></td>
-    </tr>
-  </table>
-</div>
+#️⃣ : English - [中文](README_CN.md) - [Tiếng Việt](README_VI.md) - [日語](README_JP.md)
 
 
 <h1 align="center">
