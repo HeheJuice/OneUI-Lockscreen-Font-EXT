@@ -1,13 +1,5 @@
-<div align="left">
-  <table>
-    <tr>
-      <td><b>Language :</b></td>
-      <td><a href="README.md">English</a></td>
-      <td>中文</td>
-      <td><a href="README_VI.md">Tiếng Việt</a></td>
-    </tr>
-  </table>
-</div>
+#️⃣ : [English](README.md) - [中文](README_CN.md) - [Tiếng Việt](README_VI.md) - [日語](README_JP.md)
+
 
 <h1 align="center">
   <img loading="lazy" src="HeheJuice/bannerCN.png"/>
