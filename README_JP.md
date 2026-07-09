@@ -48,6 +48,8 @@ ZIP内にあるAPKをインストールし、ロック画面エディタの「�
 | **Monoton** | Vernon Adams |
 | **Mi Serif** | Xiaomi |
 | **Chamberi Super Display Bold** | Iñigo Jerez & Francisco Torres |
+| **GeistMono-Regular | Basement.studio, Andrés Briganti, Mateo Zaragoza |
+| **Geist-Regular | Basement.studio, Andrés Briganti, Mateo Zaragoza |
 
 ### ❤️ 特別謝辞 (Special Thanks)
  * 素晴らしい成果物を提供してくださったすべてのフォントデザイナーの皆様に感謝いたします。
