@@ -56,7 +56,8 @@ OneUI鎖屏字體EXT（OneUI-Lockscreen-Font-EXT）是一個為 OneUI 鎖定畫�
 | **Monoton** | vernon adams |
 | **MiSerifF** | 小米 |
 | **ChamberiSuperDisplayBold** | Iñigo Jerez & Francisco Torres |
-
+| **GeistMono-Regular | Basement.studio, Andrés Briganti, Mateo Zaragoza |
+| **Geist-Regular | Basement.studio, Andrés Briganti, Mateo Zaragoza |
 
  ### ❤️ 特別鳴謝 
 - 感謝所有字體設計師們出色的作品 
