@@ -6,7 +6,7 @@
 </h1>
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Lexend+Giga&size=30&pause=1200&color=B4BEFE&center=true&vCenter=true&width=900&lines=Infinite+Possibility+For+Your+Lockscreen; Release Your Creativity;Designed For Your OneUI Device" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Lexend+Giga&size=30&pause=1200&color=B4BEFE&center=true&vCenter=true&width=900&lines=Infinite+Possibility+For+Your+Lockscreen;Release+Your+Creativity;Designed+For+Your+OneUI+Device" />
 </p>
 
 [![GitHub Downloads](https://img.shields.io/github/downloads/HeheJuice/OneUI-Lockscreen-Font-EXT/total?color=blue&label=Total-Downloads)](https://github.com/HeheJuice/OneUI-Lockscreen-Font-EXT/releases)
