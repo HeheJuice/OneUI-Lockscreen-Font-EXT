@@ -7,6 +7,9 @@
 </h1>
 
 [![GitHub Downloads](https://img.shields.io/github/downloads/HeheJuice/OneUI-Lockscreen-Font-EXT/total?style=flat-square&color=blue&label=Total-Downloads)](https://github.com/HeheJuice/OneUI-Lockscreen-Font-EXT/releases)
+[![Design](https://img.shields.io/badge/OneUI-6+-blue)](https://github.com/HeheJuice/OneUI-Lockscreen-Font-EXT/releases)
+[![Android](https://img.shields.io/badge/Android-3DDC84?logo=Android&logoColor=Ffffff
+)](https://github.com/HeheJuice/OneUI-Lockscreen-Font-EXT/releases)
 
 # 🗺️ Tổng quan dự án
 OneUI-Lockscreen-Font-EXT là một dự án giúp bạn thêm nhiều font chữ mới vào Màn hình khóa của OneUI.
