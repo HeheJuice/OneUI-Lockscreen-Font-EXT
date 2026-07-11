@@ -23,6 +23,7 @@
 6. Q : Unable to adjust the Clock Size freely? Or Buggy Clock UI?
 
 - A : Try Disable "Card" Notifications on Lockscreen , Use "Dots" or "Icons"
+     - In Settings App - Notification - Lockscreen 
 
 7. Q : Source of this project and credits?
 
