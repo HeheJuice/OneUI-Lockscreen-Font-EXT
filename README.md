@@ -61,8 +61,8 @@ So it is considered as a Android style from me
 | **Monoton** | Vernon Adams |
 | **Mi Serif** | Xiaomi |
 | **Chamberi Super Display Bold** | Iñigo Jerez & Francisco Torres |
-| **GeistMono-Regular | Basement.studio, Andrés Briganti, Mateo Zaragoza |
-| **Geist-Regular | Basement.studio, Andrés Briganti, Mateo Zaragoza |
+| **GeistMono Regular** | Basement.studio, Andrés Briganti, Mateo Zaragoza |
+| **Geist Regular** | Basement.studio, Andrés Briganti, Mateo Zaragoza |
 
 
 
