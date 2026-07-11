@@ -9,7 +9,7 @@
 <a href="https://github.com/HeheJuice/OneUI-Lockscreen-Font-EXT/releases"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B4BEFEFE&width=435&lines=Unleash+Your+Creativity+;Designed+For+Your+Galaxy;Infinite+Possibility+" alt="Typing SVG" /></a>
 </p>
 
-[![GitHub Downloads](https://img.shields.io/github/downloads/HeheJuice/OneUI-Lockscreen-Font-EXT/total?color=blue&label=Total-Downloads)](https://github.com/HeheJuice/OneUI-Lockscreen-Font-EXT/releases)
+[![GitHub Downloads](https://img.shields.io/github/downloads/HeheJuice/OneUI-Lockscreen-Font-EXT/total?color=blue&label=Total+Downloads)](https://github.com/HeheJuice/OneUI-Lockscreen-Font-EXT/releases)
 
 
 # 🗺️ Project Overview
