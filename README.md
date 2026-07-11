@@ -39,6 +39,7 @@
 So it is considered as a Android style from me
 > * [Relevant information](HeheJuice/Result.png)
 > * I am not a Hater of iOS,reason of not making iOS Theme related is to keep Android it's own style.
+> * If you feel unwell after seeing this,we recommended leaving this website 
 
 ### ℹ️ Available Fonts & Credits
 
