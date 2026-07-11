@@ -5,6 +5,11 @@
   <img loading="lazy" src="HeheJuice/bannerCN.png"/>
 </h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Lexend+Giga&size=30&pause=1200&color=B4BEFE&center=true&vCenter=true&width=900&lines=%E5%AE%9A%E7%BE%A9%E4%BD%A0%E7%9A%84%E9%8E%96%E5%B1%8F%E7%BE%8E%E5%AD%B8;%E7%9B%A1%E6%83%85%E6%8F%AE%E7%81%91%E9%9D%88%E6%84%9F;%E7%82%BA%20OneUI%20%E8%80%8C%E7%94%9F%E7%9A%84%E5%80%8B%E6%80%A7%E5%8C%96%E5%B7%A5%E5%85%B7
+" />
+</p>
+
 [![GitHub Downloads](https://img.shields.io/github/downloads/HeheJuice/OneUI-Lockscreen-Font-EXT/total?style=flat-square&color=blue&label=總下載量)](https://github.com/HeheJuice/OneUI-Lockscreen-Font-EXT/releases)
 
 # 🗺️ 項目概述
