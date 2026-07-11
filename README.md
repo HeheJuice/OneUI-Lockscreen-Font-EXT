@@ -2,7 +2,7 @@
 
 
 <h1 align="center">
-  <img loading="lazy" src="HeheJuice/Banner.png"/>
+  <img loading="lazy" src="HeheJuice/Banne r.png"/>
 </h1>
 
 <p align="left">
