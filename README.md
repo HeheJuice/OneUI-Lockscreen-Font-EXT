@@ -29,7 +29,7 @@
 
 
 <p align="left">
-  <a href='https://t.me/channelhehejuice/573'><img alt='Help Notes' height='35' src='./HeheJuice/HelpNotes.png'/></a>
+  <a href='HelpNote.md'><img alt='Help Notes' height='35' src='./HeheJuice/HelpNotes.png'/></a>
 </p>
 
   ### 😵 Statement / Declaration
