@@ -29,7 +29,7 @@
 
 
 <p align="left">
-  <a href='HelpNote.md'><img alt='Help Notes' height='35' src='./HeheJuice/HelpNotes.png'/></a>
+  <a href='HeheJuice/HelpNote.md'><img alt='Help Notes' height='35' src='./HeheJuice/HelpNotes.png'/></a>
 </p>
 
   ### 😵 Statement / Declaration
