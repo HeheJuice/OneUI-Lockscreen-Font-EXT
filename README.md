@@ -13,9 +13,10 @@
 
 
 # 🗺️ Project Overview
-OneUI-Lockscreen-Font-EXT is a project that adds more fonts to OneUI Lockscreen 
 
-OneUI 6 + is Needed 
+- OneUI-Lockscreen-Font-EXT is a project that adds more fonts to OneUI Lockscreen 
+
+- OneUI 6 + is Needed 
 <p align="left">
   <a href='https://t.me/channelhehejuice'><img alt='Telegram Channel' height='35' src='./HeheJuice/ChannelV2.png'/></a>
     <a href='https://t.me/SecHehe'><img alt='Telegram Discussion' height='35' src='./HeheJuice/DiscussionV2.png'/></a>
@@ -24,7 +25,7 @@ OneUI 6 + is Needed
 
 
   ### 🤔 How it works?
-Installing the APK inside the ZIP and open your "More Fonts" options on Lockscreen editor 
+- Installing the APK inside the ZIP and open your "More Fonts" options on Lockscreen editor 
 
 
 <p align="left">
