@@ -36,7 +36,8 @@ OneUI鎖屏字體EXT（OneUI-Lockscreen-Font-EXT）是一個為 OneUI 鎖定畫�
 > * OPPO 大時鐘字體的出現是因為 Android（HyperOS） [October 29, 2024] 比iOS 26 [September 15, 2025] 更早發布了「長時鐘樣式」
 因此，在我看來，它屬於 Android 風格
 > * [更多有關資料](HeheJuice/ResultCN.png)
-> * 我不討厭 iOS，我有iOS 26的iPad,我不製作 iOS 主題的原因是為了保持 Android 自身的風格。
+> * 我不討厭 iOS,我不製作 iOS 主題的原因是為了保持 Android 自身的風格。
+> * 如果您在看到這些內容後感到不適，我們建議您離開本網站。
 
  ### ℹ️ 現已推出的字體 [鳴謝]
 
