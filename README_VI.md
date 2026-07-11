@@ -32,7 +32,8 @@ Chỉ cần cài đặt file APK có trong file ZIP, sau đó mở phần chỉn
 > * Mình sẽ **KHÔNG** làm bất cứ theme hay tính năng nào sao chép phong cách của iOS.
 > * Lý do mình thêm font "OPPO Big Clock Sans" vào là vì iOS 26 (ra mắt 15/09/2025) có kiểu dáng "Đồng hồ dài" (Long Clock Style) ra mắt SAU Android (cụ thể là HyperOS, ra mắt 29/10/2024). Vì vậy, với mình thì đây vẫn được xem là phong cách đặc trưng của Android.
 > * [Thông tin tham khảo thêm](ncatt/ResultVI.png)
-> * Mình không hề ghét (anti) iOS, bản thân mình cũng đang dùng một chiếc iPad chạy iOS 26. Mình không làm các nội dung liên quan đến theme iOS đơn giản vì muốn Android giữ được bản sắc và phong cách riêng của nó.
+> * Mình không hề ghét (anti) iOS. Mình không làm các nội dung liên quan đến theme iOS đơn giản vì muốn Android giữ được bản sắc và phong cách riêng của nó.
+> * Nếu bạn cảm thấy không khỏe sau khi xem những nội dung này, chúng tôi khuyên bạn nên rời khỏi trang web này
 
 ### ℹ️ Danh sách font chữ hỗ trợ [Nguồn/Tác giả]
 
