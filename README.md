@@ -6,7 +6,7 @@
 </h1>
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Lexend+Giga&size=30&pause=1200&color=B4BEFE&center=true&vCenter=true&width=900&lines=Infinite+Possibility+For+Your+Lockscreen;Release+Your+Creativity;Designed+For+Your+OneUI+Device" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B4BEFEFE&width=435&lines=Release+Your+Creativity+;Designed+For+Your+OneUI+Device;Infinite+Possibility+For+Your+Lockscreen+" alt="Typing SVG" /></a>
 </p>
 
 [![GitHub Downloads](https://img.shields.io/github/downloads/HeheJuice/OneUI-Lockscreen-Font-EXT/total?color=blue&label=Total-Downloads)](https://github.com/HeheJuice/OneUI-Lockscreen-Font-EXT/releases)
