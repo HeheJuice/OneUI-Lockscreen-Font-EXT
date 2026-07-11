@@ -6,7 +6,7 @@
 </h1>
 
 <p align="left">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B4BEFEFE&width=435&lines=%E5%AE%9A%E7%BE%A9%E4%BD%A0%E7%9A%84%E9%8E%96%E5%B1%8F%E7%BE%8E%E5%AD%B8;%E7%9B%A1%E6%83%85%E6%8F%AE%E7%81%91%E9%9D%88%E6%84%9F;%E7%82%BA+OneUI+%E8%80%8C%E7%94%9F%E7%9A%84%E5%80%8B%E6%80%A7%E5%8C%96%E5%B7%A5%E5%85%B7" alt="Typing SVG" /></a>
+<a href="https://github.com/HeheJuice/OneUI-Lockscreen-Font-EXT/releases"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B4BEFEFE&width=435&lines=%E5%AE%9A%E7%BE%A9%E4%BD%A0%E7%9A%84%E9%8E%96%E5%B1%8F%E7%BE%8E%E5%AD%B8;%E7%9B%A1%E6%83%85%E6%8F%AE%E7%81%91%E9%9D%88%E6%84%9F;%E7%82%BA+OneUI+%E8%80%8C%E7%94%9F%E7%9A%84%E5%80%8B%E6%80%A7%E5%8C%96%E5%B7%A5%E5%85%B7" alt="Typing SVG" /></a>
 </p>
 
 [![GitHub Downloads](https://img.shields.io/github/downloads/HeheJuice/OneUI-Lockscreen-Font-EXT/total?style=flat-square&color=blue&label=總下載量)](https://github.com/HeheJuice/OneUI-Lockscreen-Font-EXT/releases)
