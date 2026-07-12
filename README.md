@@ -11,7 +11,7 @@
 
 <div align="center">
   
-[![GitHub Downloads](https://img.shields.io/github/downloads/HeheJuice/OneUI-Lockscreen-Font-EXT/total?color=blue&label=Total+Downloads+from+GitHub)](https://github.com/HeheJuice/OneUI-Lockscreen-Font-EXT/releases)
+[![GitHub Downloads](https://img.shields.io/github/downloads/HeheJuice/OneUI-Lockscreen-Font-EXT/total?color=blue&label=Total+Downloads+from+GitHub&style=for-the-badge)](https://github.com/HeheJuice/OneUI-Lockscreen-Font-EXT/releases)
 [![Design](https://img.shields.io/badge/OneUI-6+-blue)](https://github.com/HeheJuice/OneUI-Lockscreen-Font-EXT/releases)
 [![Android](https://img.shields.io/badge/Android-50f270?logo=Android&logoColor=black
 )](https://github.com/HeheJuice/OneUI-Lockscreen-Font-EXT/releases)
