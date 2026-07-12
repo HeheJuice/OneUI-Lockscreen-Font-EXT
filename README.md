@@ -5,7 +5,7 @@
   <img loading="lazy" src="HeheJuice/Banner.png"/>
 </h1>
 
-<p align="left">
+<p align="center">
 <a href="https://github.com/HeheJuice/OneUI-Lockscreen-Font-EXT/releases"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B4BEFEFE&center=true&vCenter=true&width=435&lines=Unleash+Your+Creativity+;Designed+For+Your+Galaxy+;Infinite+Possibility+" alt="Typing SVG" /></a>
 </p>
 
