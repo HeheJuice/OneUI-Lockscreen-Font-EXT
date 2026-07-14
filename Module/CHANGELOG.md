@@ -1,5 +1,4 @@
 #### Added the following 
 
-- GeistMono-Regular By Basement.studio, Andrés Briganti, Mateo Zaragoza
-- Geist-Regular By Basement.studio, Andrés Briganti, Mateo Zaragoza
+- OPPO Big Clock Sans Short By OPPO and Adjusted By HeheJuice 
 
