@@ -24,8 +24,8 @@ OneUI鎖屏字體EXT（OneUI-Lockscreen-Font-EXT）是一個為 OneUI 鎖定畫�
 
 支援版本 OneUI 6 + 
 <p align="left">
-  <a href='https://t.me/channelhehejuice'><img alt='Telegram 頻道' height='35' src='./HeheJuice/ChannelCN.png'/></a>
-    <a href='https://t.me/SecHehe'><img alt='Telegram 討論群' height='35' src='./HeheJuice/DiscussionCN.png'/></a>
+  <a href='https://telegram.me/channelhehejuice'><img alt='Telegram 頻道' height='35' src='./HeheJuice/ChannelCN.png'/></a>
+    <a href='https://telegram.me/SecHehe'><img alt='Telegram 討論群' height='35' src='./HeheJuice/DiscussionCN.png'/></a>
     <a href='https://github.com/HeheJuice/OneUI-Lockscreen-Font-EXT/releases'><img alt='最新發布' height='35' src='./HeheJuice/DownloadCN.png'/></a>
 </p>
 
@@ -35,7 +35,7 @@ OneUI鎖屏字體EXT（OneUI-Lockscreen-Font-EXT）是一個為 OneUI 鎖定畫�
 
 
 <p align="left">
-  <a href='https://t.me/channelhehejuice/573'><img alt='幫助說明' height='35' src='./HeheJuice/HelpNotesCN.png'/></a>
+  <a href='https://telegram.me/channelhehejuice/573'><img alt='幫助說明' height='35' src='./HeheJuice/HelpNotesCN.png'/></a>
 </p>
 
  ### 😵 聲明
