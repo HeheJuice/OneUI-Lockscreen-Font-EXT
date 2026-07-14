@@ -62,7 +62,7 @@ Chỉ cần cài đặt file APK có trong file ZIP, sau đó mở phần chỉn
 | **ChamberiSuperDisplayBold** | Iñigo Jerez & Francisco Torres |
 | **GeistMono-Regular | Basement.studio, Andrés Briganti, Mateo Zaragoza |
 | **Geist-Regular | Basement.studio, Andrés Briganti, Mateo Zaragoza |
-
+| **OPPO Big Clock Sans Short** | OPPO and Adjusted By HeheJuice |
 
 ### ❤️ Lời cảm ơn đặc biệt 
 - Xin gửi lời cảm ơn chân thành đến tất cả các nhà thiết kế vì những bộ font tuyệt vời này.
