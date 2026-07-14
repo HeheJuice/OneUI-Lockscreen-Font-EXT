@@ -71,6 +71,7 @@ So it is considered as a Android style from me
 | **Chamberi Super Display Bold** | Iñigo Jerez & Francisco Torres |
 | **GeistMono Regular** | Basement.studio, Andrés Briganti, Mateo Zaragoza |
 | **Geist Regular** | Basement.studio, Andrés Briganti, Mateo Zaragoza |
+| **OPPO Big Clock Sans Short** | OPPO and Adjusted By HeheJuice |
 
 
 
