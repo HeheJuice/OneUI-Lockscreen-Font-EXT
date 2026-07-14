@@ -14,14 +14,14 @@
 OneUI-Lockscreen-Font-EXT は、OneUIのロック画面で使えるフォントを追加するプロジェクトです。
 ※OneUI 6以上が必要です。
 <p align="left">
-<a href='https://t.me/channelhehejuice'><img alt='Telegram 頻道' height='35' src='./HeheJuice/ChannelJP.png'/></a>
-    <a href='https://t.me/SecHehe'><img alt='Telegram 討論群' height='35' src='./HeheJuice/DiscussionJP.png'/></a>
+<a href='https://telegram.me/channelhehejuice'><img alt='Telegram 頻道' height='35' src='./HeheJuice/ChannelJP.png'/></a>
+    <a href='https://telegram.me/SecHehe'><img alt='Telegram 討論群' height='35' src='./HeheJuice/DiscussionJP.png'/></a>
     <a href='https://github.com/HeheJuice/OneUI-Lockscreen-Font-EXT/releases'><img alt='最新發布' height='35' src='./HeheJuice/DownloadJP.png'/></a>
 
 ### 🤔 仕組みは？ (How it works?)
 ZIP内にあるAPKをインストールし、ロック画面エディタの「さらにフォントを表示（More Fonts）」オプションを開いてください。
 <p align="left">
-<a href='https://t.me/channelhehejuice/573'><img alt='Help Notes' height='35' src='./HeheJuice/HelpNotesJP.png'/></a>
+<a href='HeheJuice/HelpNote.md'><img alt='Help Notes' height='35' src='./HeheJuice/HelpNotesJP.png'/></a>
 </p>
 
 ### 😵 ステートメント (Statement)
