@@ -71,7 +71,7 @@ OneUI鎖屏字體EXT（OneUI-Lockscreen-Font-EXT）是一個為 OneUI 鎖定畫�
 | **ChamberiSuperDisplayBold** | Iñigo Jerez & Francisco Torres |
 | **GeistMono Regular** | Basement.studio, Andrés Briganti, Mateo Zaragoza |
 | **Geist Regular** | Basement.studio, Andrés Briganti, Mateo Zaragoza |
-| **OPPO Big Clock Sans Short** | OPPO,由 HeheJuice 作出修改 |
+| **OPPO 大短時鐘字體** | OPPO,由 HeheJuice 作出修改 |
 
  ### ❤️ 特別鳴謝 
 - 感謝所有字體設計師們出色的作品 
