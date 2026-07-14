@@ -35,7 +35,7 @@ OneUI鎖屏字體EXT（OneUI-Lockscreen-Font-EXT）是一個為 OneUI 鎖定畫�
 
 
 <p align="left">
-  <a href='https://telegram.me/channelhehejuice/573'><img alt='幫助說明' height='35' src='./HeheJuice/HelpNotesCN.png'/></a>
+  <a href='https://telegram.me/SecHehe/6936'><img alt='幫助說明' height='35' src='./HeheJuice/HelpNotesCN.png'/></a>
 </p>
 
  ### 😵 聲明
