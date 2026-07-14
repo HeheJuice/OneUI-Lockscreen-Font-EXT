@@ -17,8 +17,8 @@ OneUI-Lockscreen-Font-EXT là một dự án giúp bạn thêm nhiều font ch�
 **Yêu cầu:** Thiết bị chạy OneUI 6.0 trở lên.
 
 <p align="left">
-  <a href='https://t.me/channelhehejuice'><img alt='Kênh Telegram' height='35' src='./HeheJuice/ChannelVI.png'/></a>
-    <a href='https://t.me/SecHehe'><img alt='Nhóm thảo luận Telegram' height='35' src='./HeheJuice/DiscussionVI.png'/></a>
+  <a href='https://telegram.me/channelhehejuice'><img alt='Kênh Telegram' height='35' src='./HeheJuice/ChannelVI.png'/></a>
+    <a href='https://telegram.me/SecHehe'><img alt='Nhóm thảo luận Telegram' height='35' src='./HeheJuice/DiscussionVI.png'/></a>
     <a href='https://github.com/HeheJuice/OneUI-Lockscreen-Font-EXT/releases'><img alt='Phiên bản mới nhất' height='35' src='./HeheJuice/DownloadVI.png'/></a>
 </p>
 
@@ -27,7 +27,7 @@ OneUI-Lockscreen-Font-EXT là một dự án giúp bạn thêm nhiều font ch�
 Chỉ cần cài đặt file APK có trong file ZIP, sau đó mở phần chỉnh sửa Màn hình khóa của bạn lên và chọn mục "More Fonts" (Thêm phông chữ).
 
 <p align="left">
-  <a href='https://t.me/channelhehejuice/573'><img alt='Bạn gặp vấn đề? Nhấn vào đây' height='35' src='./HeheJuice/HelpNotesVI.png'/></a>
+  <a href='https://telegram.me/channelhehejuice/573'><img alt='Bạn gặp vấn đề? Nhấn vào đây' height='35' src='./HeheJuice/HelpNotesVI.png'/></a>
 </p>
 
 ### 😵 Tuyên bố chính thức
