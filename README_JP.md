@@ -52,9 +52,11 @@ ZIP内にあるAPKをインストールし、ロック画面エディタの「�
 | **Monoton** | Vernon Adams |
 | **Mi Serif** | Xiaomi |
 | **Chamberi Super Display Bold** | Iñigo Jerez & Francisco Torres |
-| **GeistMono-Regular | Basement.studio, Andrés Briganti, Mateo Zaragoza |
-| **Geist-Regular | Basement.studio, Andrés Briganti, Mateo Zaragoza |
+| **GeistMono-Regular** | Basement.studio, Andrés Briganti, Mateo Zaragoza |
+| **Geist-Regular** | Basement.studio, Andrés Briganti, Mateo Zaragoza |
 | **OPPO Big Clock Sans Short** | OPPO and Adjusted By HeheJuice |
+| **OPPO Big Clock Sans Short No Colon** | OPPO and Adjusted By HeheJuice |
+| **OPPO Big Clock Sans No Colon** | OPPO and Adjusted By HeheJuice |
 
 ### ❤️ 特別謝辞 (Special Thanks)
  * 素晴らしい成果物を提供してくださったすべてのフォントデザイナーの皆様に感謝いたします。
