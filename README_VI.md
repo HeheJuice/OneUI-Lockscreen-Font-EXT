@@ -60,8 +60,8 @@ Chỉ cần cài đặt file APK có trong file ZIP, sau đó mở phần chỉn
 | **Monoton** | vernon adams |
 | **MiSerifF** | Xiaomi |
 | **ChamberiSuperDisplayBold** | Iñigo Jerez & Francisco Torres |
-| **GeistMono-Regular | Basement.studio, Andrés Briganti, Mateo Zaragoza |
-| **Geist-Regular | Basement.studio, Andrés Briganti, Mateo Zaragoza |
+| **GeistMono-Regular** | Basement.studio, Andrés Briganti, Mateo Zaragoza |
+| **Geist-Regular** | Basement.studio, Andrés Briganti, Mateo Zaragoza |
 | **OPPO Big Clock Sans Short** | OPPO and Adjusted By HeheJuice |
 | **OPPO Big Clock Sans Short No Colon** | OPPO and Adjusted By HeheJuice |
 | **OPPO Big Clock Sans No Colon** | OPPO and Adjusted By HeheJuice |
