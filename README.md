@@ -35,7 +35,7 @@
 
 
 <p align="left">
-  <a href='HeheJuice/HelpNote.md'><img alt='Help Notes' height='35' src='./HeheJuice/HelpNotes.png'/></a>
+[![Help](https://img.shields.io/badge/Facing_Problems?-Press_Here-brightgreen?style=flat-square)](HeheJuice/HelpNote.md)
 </p>
 
   ### 😵 Statement / Declaration
