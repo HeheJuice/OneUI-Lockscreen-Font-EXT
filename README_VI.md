@@ -31,6 +31,7 @@ OneUI-Lockscreen-Font-EXT là một dự án giúp bạn thêm nhiều font ch�
 Chỉ cần cài đặt file APK có trong file ZIP, sau đó mở phần chỉnh sửa Màn hình khóa của bạn lên và chọn mục "More Fonts" (Thêm phông chữ).
 
 <p align="left">
+
 [![Help](https://img.shields.io/badge/B%E1%BA%A1n%20g%E1%BA%B7p%20v%E1%BA%A5n%20%C4%91%E1%BB%83%3F%20-Nh%E1%BA%A5n%20v%C3%A0o%20%C4%91%C3%A2y.-108080?style=flat-square)](HeheJuice/HelpNote.md)
 
 </p>
