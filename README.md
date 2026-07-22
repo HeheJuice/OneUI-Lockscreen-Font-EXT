@@ -1,4 +1,4 @@
-#️⃣ English | [中文](README_CN.md) | [Tiếng Việt](README_VI.md) | [日本語](README_JP.md)
+> #️⃣ English | [中文](README_CN.md) | [Tiếng Việt](README_VI.md) | [日本語](README_JP.md)
 
 
 <h1 align="center">
