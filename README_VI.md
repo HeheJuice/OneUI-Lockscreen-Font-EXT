@@ -19,7 +19,7 @@ OneUI-Lockscreen-Font-EXT là một dự án giúp bạn thêm nhiều font ch�
 <p align="left">
 
 [![Telegram](https://img.shields.io/badge/Telegram-Kênh-26A5E4?style=flat-square&logo=Telegram)](https://t.me/channelhehejuice)
-[![Chat](https://img.shields.io/badge/Telegram-Nhóm thảo_luận-26A5E4?style=flat-square&logo=Telegram)](https://t.me/sechehe)
+[![Chat](https://img.shields.io/badge/Telegram-Nhóm_thảo_luận-26A5E4?style=flat-square&logo=Telegram)](https://t.me/sechehe)
 [![Download](https://img.shields.io/badge/Download-Phiên_bản_mới_nhất-brightgreen?style=flat-square&logo=android)](https://github.com/HeheJuice/OneUI-Lockscreen-Font-EXT/releases)
 
 </p>
@@ -31,7 +31,8 @@ OneUI-Lockscreen-Font-EXT là một dự án giúp bạn thêm nhiều font ch�
 Chỉ cần cài đặt file APK có trong file ZIP, sau đó mở phần chỉnh sửa Màn hình khóa của bạn lên và chọn mục "More Fonts" (Thêm phông chữ).
 
 <p align="left">
-  <a href='HeheJuice/HelpNote.md'><img alt='Bạn gặp vấn đề? Nhấn vào đây' height='35' src='./HeheJuice/HelpNotesVI.png'/></a>
+[![Help](https://img.shields.io/badge/B%E1%BA%A1n%20g%E1%BA%B7p%20v%E1%BA%A5n%20%C4%91%E1%BB%83%3F%20-Nh%E1%BA%A5n%20v%C3%A0o%20%C4%91%C3%A2y.-108080?style=flat-square)](HeheJuice/HelpNote.md)
+
 </p>
 
 ### 😵 Tuyên bố chính thức

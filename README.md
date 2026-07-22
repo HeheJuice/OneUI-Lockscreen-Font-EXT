@@ -5,9 +5,9 @@
   <img loading="lazy" src="HeheJuice/Banner.png"/>
 </h1>
 
-<p align="center">
+<p align="center"
 
-<div align="center">
+<div align="left">
   
 [![GitHub Downloads](https://img.shields.io/github/downloads/HeheJuice/OneUI-Lockscreen-Font-EXT/total?color=blue&label=Total+Downloads+from+GitHub)](https://github.com/HeheJuice/OneUI-Lockscreen-Font-EXT/releases)
 [![Design](https://img.shields.io/badge/OneUI-6+-blue)](https://github.com/HeheJuice/OneUI-Lockscreen-Font-EXT/releases)
@@ -36,7 +36,7 @@
 
 <p align="left">
 
-[![Help](https://img.shields.io/badge/Facing_Problems-Press_Here-brightgreen?style=flat-square)](HeheJuice/HelpNote.md)
+[![Help](https://img.shields.io/badge/Facing%20Problems%3F-Press%20Here!-108080?style=flat-square)](HeheJuice/HelpNote.md)
 </p>
 
   ### 😵 Statement / Declaration
