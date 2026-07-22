@@ -23,7 +23,7 @@ OneUI-Lockscreen-Font-EXT は、OneUIのロック画面で使えるフォント�
 ZIP内にあるAPKをインストールし、ロック画面エディタの「さらにフォントを表示（More Fonts）」オプションを開いてください。
 <p align="left">
 
-[![Help](https://img.shields.io/badge/問題が発生しましたか? -こちらをクリックしてください-108080?style=flat-square)](HeheJuice/HelpNote.md)
+[![Help](https://img.shields.io/badge/%E5%95%8F%E9%A1%8C%E3%81%8C%E7%99%BA%E7%94%9F%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E3%81%8B%3F%20-%E3%81%93%E3%81%A1%E3%82%89%E3%82%92%E3%82%AF%E3%83%AA%E3%83%83%E3%82%AF%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84-108080?style=flat-square)](HeheJuice/HelpNote.md)
 
 </p>
 
