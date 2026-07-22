@@ -20,9 +20,11 @@ OneUI鎖屏字體EXT（OneUI-Lockscreen-Font-EXT）是一個為 OneUI 鎖定畫�
 
 支援版本 OneUI 6 + 
 <p align="left">
+
 [![Telegram](https://img.shields.io/badge/Telegram-Channel-26A5E4?style=flat-square&logo=Telegram)](https://t.me/channelhehejuice)
 [![Chat](https://img.shields.io/badge/Telegram-Chat-26A5E4?style=flat-square&logo=Telegram)](https://t.me/sechehe)
 [![Download](https://img.shields.io/badge/最新版本-下載-brightgreen?style=flat-square&logo=android)](https://github.com/HeheJuice/OneUI-Lockscreen-Font-EXT/releases)
+
 </p>
 
 

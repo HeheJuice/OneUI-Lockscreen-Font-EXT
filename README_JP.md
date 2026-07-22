@@ -14,6 +14,7 @@
 OneUI-Lockscreen-Font-EXT は、OneUIのロック画面で使えるフォントを追加するプロジェクトです。
 ※OneUI 6以上が必要です。
 <p align="left">
+
 [![Telegram](https://img.shields.io/badge/Telegram-Channel-26A5E4?style=flat-square&logo=Telegram)](https://t.me/channelhehejuice)
 [![Chat](https://img.shields.io/badge/Telegram-Chat-26A5E4?style=flat-square&logo=Telegram)](https://t.me/sechehe)
 [![Download](https://img.shields.io/badge/Download-Latest-brightgreen?style=flat-square&logo=android)](https://github.com/HeheJuice/OneUI-Lockscreen-Font-EXT/releases)

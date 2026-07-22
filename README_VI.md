@@ -17,9 +17,11 @@ OneUI-Lockscreen-Font-EXT là một dự án giúp bạn thêm nhiều font ch�
 **Yêu cầu:** Thiết bị chạy OneUI 6.0 trở lên.
 
 <p align="left">
+
 [![Telegram](https://img.shields.io/badge/Telegram-Kênh-26A5E4?style=flat-square&logo=Telegram)](https://t.me/channelhehejuice)
 [![Chat](https://img.shields.io/badge/Telegram-Nhóm thảo luận-26A5E4?style=flat-square&logo=Telegram)](https://t.me/sechehe)
 [![Download](https://img.shields.io/badge/Download-Phiên bản mới nhất-brightgreen?style=flat-square&logo=android)](https://github.com/HeheJuice/OneUI-Lockscreen-Font-EXT/releases)
+
 </p>
 
 
