@@ -1,11 +1,11 @@
-#️⃣ [English](README.md) | [中文](README_CN.md) | [Tiếng Việt](README_VI.md) | [日本語](README_JP.md)
+> #️⃣ [English](README.md) | [中文](README_CN.md) | [Tiếng Việt](README_VI.md) | [日本語](README_JP.md)
 
 
 <h1 align="center">
   <img loading="lazy" src="HeheJuice/bannerCN.png"/>
 </h1>
 
-<div align="center">
+<div align="left">
 
 [![GitHub Downloads](https://img.shields.io/github/downloads/HeheJuice/OneUI-Lockscreen-Font-EXT/total?style=flat-square&color=blue&label=本項目累積總下載量)](https://github.com/HeheJuice/OneUI-Lockscreen-Font-EXT/releases)
 [![Design](https://img.shields.io/badge/OneUI-6+-blue)](https://github.com/HeheJuice/OneUI-Lockscreen-Font-EXT/releases)
