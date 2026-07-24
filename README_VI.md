@@ -1,4 +1,4 @@
-> #️⃣ [English](README.md) | [中文](README_CN.md) | [Tiếng Việt](README_VI.md) | [日本語](README_JP.md)
+> #️⃣ [English](README.md) | [中文](README_CN.md) | **Tiếng Việt** | [日本語](README_JP.md)
 
 
 
@@ -6,7 +6,7 @@
   <img loading="lazy" src="HeheJuice/Banner.png"/>
 </h1>
 
-[![GitHub Downloads](https://img.shields.io/github/downloads/HeheJuice/OneUI-Lockscreen-Font-EXT/total?color=blue&label=Total-Downloads)](https://github.com/HeheJuice/OneUI-Lockscreen-Font-EXT/releases)
+[![GitHub Downloads](https://img.shields.io/github/downloads/HeheJuice/OneUI-Lockscreen-Font-EXT/total?color=blue&label=Lượt-tải)](https://github.com/HeheJuice/OneUI-Lockscreen-Font-EXT/releases)
 [![Design](https://img.shields.io/badge/OneUI-6+-blue)](https://github.com/HeheJuice/OneUI-Lockscreen-Font-EXT/releases)
 [![Android](https://img.shields.io/badge/Android-50f270?logo=Android&logoColor=black
 )](https://github.com/HeheJuice/OneUI-Lockscreen-Font-EXT/releases)
