@@ -23,9 +23,9 @@
 - OneUI 6 + is Needed 
 <p align="left">
 
-[![Telegram](https://img.shields.io/badge/Telegram-Channel-26A5E4?style=flat-square&logo=Telegram)](https://t.me/channelhehejuice)
-[![Chat](https://img.shields.io/badge/Telegram-Chat-26A5E4?style=flat-square&logo=Telegram)](https://t.me/sechehe)
-[![Download](https://img.shields.io/badge/Download-Latest-brightgreen?style=flat-square&logo=android)](https://github.com/HeheJuice/OneUI-Lockscreen-Font-EXT/releases)
+[![Telegram](https://img.shields.io/badge/Telegram-Channel-26A5E4?logo=Telegram)](https://t.me/channelhehejuice)
+[![Chat](https://img.shields.io/badge/Telegram-Chat-26A5E4?logo=Telegram)](https://t.me/sechehe)
+[![Download](https://img.shields.io/badge/Download-Latest-brightgreen?logo=android)](https://github.com/HeheJuice/OneUI-Lockscreen-Font-EXT/releases)
 
 </p>
 
@@ -36,7 +36,7 @@
 
 <p align="left">
 
-[![Help](https://img.shields.io/badge/Facing%20Problems%3F-Press%20Here!-108080?style=flat-square)](HeheJuice/HelpNote.md)
+[![Help](https://img.shields.io/badge/Facing%20Problems%3F-Press%20Here!-108080)](HeheJuice/HelpNote.md)
 </p>
 
   ### 😵 Statement / Declaration
