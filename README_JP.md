@@ -5,7 +5,7 @@
   <img loading="lazy" src="HeheJuice/Banner.png"/>
 </h1>
 
-[![GitHub Downloads](https://img.shields.io/github/downloads/HeheJuice/OneUI-Lockscreen-Font-EXT/total?style=flat-square&color=blue&label=Total-Downloads)](https://github.com/HeheJuice/OneUI-Lockscreen-Font-EXT/releases)
+[![GitHub Downloads](https://img.shields.io/github/downloads/HeheJuice/OneUI-Lockscreen-Font-EXT/total?color=blue&label=Total-Downloads)](https://github.com/HeheJuice/OneUI-Lockscreen-Font-EXT/releases)
 [![Design](https://img.shields.io/badge/OneUI-6+-blue)](https://github.com/HeheJuice/OneUI-Lockscreen-Font-EXT/releases)
 [![Android](https://img.shields.io/badge/Android-50f270?logo=Android&logoColor=black
 )](https://github.com/HeheJuice/OneUI-Lockscreen-Font-EXT/releases)
@@ -15,15 +15,15 @@ OneUI-Lockscreen-Font-EXT は、OneUIのロック画面で使えるフォント�
 ※OneUI 6以上が必要です。
 <p align="left">
 
-[![Telegram](https://img.shields.io/badge/Telegram-Channel-26A5E4?style=flat-square&logo=Telegram)](https://t.me/channelhehejuice)
-[![Chat](https://img.shields.io/badge/Telegram-Chat-26A5E4?style=flat-square&logo=Telegram)](https://t.me/sechehe)
-[![Download](https://img.shields.io/badge/Download-Latest-brightgreen?style=flat-square&logo=android)](https://github.com/HeheJuice/OneUI-Lockscreen-Font-EXT/releases)
+[![Telegram](https://img.shields.io/badge/Telegram-Channel-26A5E4?logo=Telegram)](https://t.me/channelhehejuice)
+[![Chat](https://img.shields.io/badge/Telegram-Chat-26A5E4?logo=Telegram)](https://t.me/sechehe)
+[![Download](https://img.shields.io/badge/Download-Latest-brightgreen?logo=android)](https://github.com/HeheJuice/OneUI-Lockscreen-Font-EXT/releases)
 
 ### 🤔 仕組みは？ (How it works?)
 ZIP内にあるAPKをインストールし、ロック画面エディタの「さらにフォントを表示（More Fonts）」オプションを開いてください。
 <p align="left">
 
-[![Help](https://img.shields.io/badge/%E5%95%8F%E9%A1%8C%E3%81%8C%E7%99%BA%E7%94%9F%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E3%81%8B%3F%20-%E3%81%93%E3%81%A1%E3%82%89%E3%82%92%E3%82%AF%E3%83%AA%E3%83%83%E3%82%AF%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84-108080?style=flat-square)](HeheJuice/HelpNote.md)
+[![Help](https://img.shields.io/badge/%E5%95%8F%E9%A1%8C%E3%81%8C%E7%99%BA%E7%94%9F%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E3%81%8B%3F%20-%E3%81%93%E3%81%A1%E3%82%89%E3%82%92%E3%82%AF%E3%83%AA%E3%83%83%E3%82%AF%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84-108080)](HeheJuice/HelpNote.md)
 
 </p>
 
