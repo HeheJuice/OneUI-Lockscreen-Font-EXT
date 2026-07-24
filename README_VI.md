@@ -6,7 +6,7 @@
   <img loading="lazy" src="HeheJuice/Banner.png"/>
 </h1>
 
-[![GitHub Downloads](https://img.shields.io/github/downloads/HeheJuice/OneUI-Lockscreen-Font-EXT/total?style=flat-square&color=blue&label=Total-Downloads)](https://github.com/HeheJuice/OneUI-Lockscreen-Font-EXT/releases)
+[![GitHub Downloads](https://img.shields.io/github/downloads/HeheJuice/OneUI-Lockscreen-Font-EXT/total?color=blue&label=Total-Downloads)](https://github.com/HeheJuice/OneUI-Lockscreen-Font-EXT/releases)
 [![Design](https://img.shields.io/badge/OneUI-6+-blue)](https://github.com/HeheJuice/OneUI-Lockscreen-Font-EXT/releases)
 [![Android](https://img.shields.io/badge/Android-50f270?logo=Android&logoColor=black
 )](https://github.com/HeheJuice/OneUI-Lockscreen-Font-EXT/releases)
@@ -18,9 +18,9 @@ OneUI-Lockscreen-Font-EXT là một dự án giúp bạn thêm nhiều font ch�
 
 <p align="left">
 
-[![Telegram](https://img.shields.io/badge/Telegram-Kênh-26A5E4?style=flat-square&logo=Telegram)](https://t.me/channelhehejuice)
-[![Chat](https://img.shields.io/badge/Telegram-Nhóm_thảo_luận-26A5E4?style=flat-square&logo=Telegram)](https://t.me/sechehe)
-[![Download](https://img.shields.io/badge/Download-Phiên_bản_mới_nhất-brightgreen?style=flat-square&logo=android)](https://github.com/HeheJuice/OneUI-Lockscreen-Font-EXT/releases)
+[![Telegram](https://img.shields.io/badge/Telegram-Kênh-26A5E4?logo=Telegram)](https://t.me/channelhehejuice)
+[![Chat](https://img.shields.io/badge/Telegram-Nhóm_thảo_luận-26A5E4?logo=Telegram)](https://t.me/sechehe)
+[![Download](https://img.shields.io/badge/Download-Phiên_bản_mới_nhất-brightgreen?logo=android)](https://github.com/HeheJuice/OneUI-Lockscreen-Font-EXT/releases)
 
 </p>
 
@@ -32,7 +32,7 @@ Chỉ cần cài đặt file APK có trong file ZIP, sau đó mở phần chỉn
 
 <p align="left">
 
-[![Help](https://img.shields.io/badge/B%E1%BA%A1n%20g%E1%BA%B7p%20v%E1%BA%A5n%20%C4%91%E1%BB%83%3F%20-Nh%E1%BA%A5n%20v%C3%A0o%20%C4%91%C3%A2y.-108080?style=flat-square)](HeheJuice/HelpNote.md)
+[![Help](https://img.shields.io/badge/B%E1%BA%A1n%20g%E1%BA%B7p%20v%E1%BA%A5n%20%C4%91%E1%BB%83%3F%20-Nh%E1%BA%A5n%20v%C3%A0o%20%C4%91%C3%A2y.-108080)](HeheJuice/HelpNote.md)
 
 </p>
 
