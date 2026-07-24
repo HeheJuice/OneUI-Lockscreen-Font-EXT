@@ -1,4 +1,4 @@
-> #️⃣ [English](README.md) | [中文](README_CN.md) | [Tiếng Việt](README_VI.md) | [日本語](README_JP.md)
+> #️⃣ [English](README.md) | [中文](README_CN.md) | **Tiếng Việt** | [日本語](README_JP.md)
 
 
 
@@ -6,7 +6,7 @@
   <img loading="lazy" src="HeheJuice/Banner.png"/>
 </h1>
 
-[![GitHub Downloads](https://img.shields.io/github/downloads/HeheJuice/OneUI-Lockscreen-Font-EXT/total?color=blue&label=Total-Downloads)](https://github.com/HeheJuice/OneUI-Lockscreen-Font-EXT/releases)
+[![GitHub Downloads](https://img.shields.io/github/downloads/HeheJuice/OneUI-Lockscreen-Font-EXT/total?color=blue&label=Lượt-tải)](https://github.com/HeheJuice/OneUI-Lockscreen-Font-EXT/releases)
 [![Design](https://img.shields.io/badge/OneUI-6+-blue)](https://github.com/HeheJuice/OneUI-Lockscreen-Font-EXT/releases)
 [![Android](https://img.shields.io/badge/Android-50f270?logo=Android&logoColor=black
 )](https://github.com/HeheJuice/OneUI-Lockscreen-Font-EXT/releases)
@@ -32,7 +32,7 @@ Chỉ cần cài đặt file APK có trong file ZIP, sau đó mở phần chỉn
 
 <p align="left">
 
-[![Help](https://img.shields.io/badge/B%E1%BA%A1n%20g%E1%BA%B7p%20v%E1%BA%A5n%20%C4%91%E1%BB%83%3F%20-Nh%E1%BA%A5n%20v%C3%A0o%20%C4%91%C3%A2y.-108080)](HeheJuice/HelpNote.md)
+[![Help](https://img.shields.io/badge/B%E1%BA%A1n%20g%E1%BA%B7p%20v%E1%BA%A5n%20%C4%91%E1%BB%83%3F%20-Nh%E1%BA%A5n%20v%C3%A0o%20%C4%91%C3%A2y.-108080)](ncatt/HelpNote_VI.md)
 
 </p>
 
