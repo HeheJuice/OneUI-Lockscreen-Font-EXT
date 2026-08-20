@@ -77,6 +77,8 @@ So it is considered as a Android style from me
 | **OPPO Big Clock Sans No Colon** | OPPO and Adjusted By HeheJuice |
 | **HarmonyOS Sans Chinese Clock** | Huawei and Adjusted By HeheJuice |
 | **NothingOS Thin No Colon** | Nothing and Adjusted By HeheJuice |
+| **Comfortaa** | Johan Aakerlund |
+| **Poppins** | Indian Type Foundry, Jonny Pinhorn, Ninad Kale |
 
 
 

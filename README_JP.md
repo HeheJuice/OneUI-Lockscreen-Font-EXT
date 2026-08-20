@@ -62,7 +62,8 @@ ZIP内にあるAPKをインストールし、ロック画面エディタの「�
 | **OPPO Big Clock Sans No Colon** | OPPO and Adjusted By HeheJuice |
 | **HarmonyOS Sans Chinese Clock** | Huawei and Adjusted By HeheJuice |
 | **NothingOS Thin No Colon** | Nothing and Adjusted By HeheJuice |
-
+| **Comfortaa** | Johan Aakerlund |
+| **Poppins** | Indian Type Foundry, Jonny Pinhorn, Ninad Kale |
 
 ### ❤️ 特別謝辞 (Special Thanks)
  * 素晴らしい成果物を提供してくださったすべてのフォントデザイナーの皆様に感謝いたします。

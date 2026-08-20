@@ -76,6 +76,8 @@ OneUI鎖屏字體EXT（OneUI-Lockscreen-Font-EXT）是一個為 OneUI 鎖定畫�
 | **OPPO 大時鐘無冒號字體** | OPPO,由 HeheJuice 作出修改 |
 | **鴻蒙字體純中文時鐘字體** | Huawei ,由 HeheJuice 作出修改 |
 | **NothingOS Thin 無冒號** | Nothing ,由 HeheJuice 作出修改 |
+| **Comfortaa** | Johan Aakerlund |
+| **Poppins** | Indian Type Foundry, Jonny Pinhorn, Ninad Kale |
 
  ### ❤️ 特別鳴謝 
 - 感謝所有字體設計師們出色的作品 

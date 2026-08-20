@@ -73,6 +73,9 @@ Chỉ cần cài đặt file APK có trong file ZIP, sau đó mở phần chỉn
 | **OPPO Big Clock Sans No Colon** | OPPO and Adjusted By HeheJuice |
 | **HarmonyOS Sans Chinese Clock** | Huawei and Adjusted By HeheJuice |
 | **NothingOS Thin No Colon** | Nothing and Adjusted By HeheJuice |
+| **Comfortaa** | Johan Aakerlund |
+| **Poppins** | Indian Type Foundry, Jonny Pinhorn, Ninad Kale |
+
 
 ### ❤️ Lời cảm ơn đặc biệt 
 - Xin gửi lời cảm ơn chân thành đến tất cả các nhà thiết kế vì những bộ font tuyệt vời này.
